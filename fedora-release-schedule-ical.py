@@ -21,7 +21,11 @@ SUMMARY_PATTERNS = {
     "Key Tasks & Milestones",
     "RelEng",
     "Spins SIG",
-    "Keepalive deadline for spins"
+    "Keepalive deadline for spins",
+    "Post Release Cleanup",
+    "Post Release Cleanup [rel-eng]",
+    "Beta Release Public Availability",
+    "Final Release Public Availability (GA)",
 }
 
 
