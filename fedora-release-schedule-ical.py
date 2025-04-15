@@ -46,6 +46,7 @@ for version in FEDORA_VERSIONS:
             obsolete_event = event.clone()
             obsolete_event.name = f"Update fedora-obsolete-packages for Fedora {version}"
             all_events.add(obsolete_event)
+        event.name = f"F{version}: {event.name}"
         all_events.add(event)
 
 final_cal = Calendar()
