@@ -12,6 +12,9 @@ import requests
 
 CALENDAR_FILENAME = "fedora-releases.ics"
 
+URL_ICS = "https://fedorapeople.org/groups/schedule/f-{version}/f-{version}-key.ics"
+URL_HTML = "https://fedorapeople.org/groups/schedule/f-{version}/f-{version}-key-tasks.html"
+
 # non-existent calendars are skipped so don"t be shy and
 # add more of those as they approach
 FEDORA_VERSIONS = (42, 43, 44, 45, 46, 47, 48, 49, 50)
@@ -35,7 +38,7 @@ def build_remove_set(version):
 
 all_events = set()
 for version in FEDORA_VERSIONS:
-    cal_file = requests.get(f"https://fedorapeople.org/groups/schedule/f-{version}/f-{version}-key.ics")
+    cal_file = requests.get(URL_ICS.format(version=version))
     if not cal_file.ok:
         continue
     cal = Calendar(cal_file.text)
@@ -51,6 +54,7 @@ for version in FEDORA_VERSIONS:
             obsolete_event.name = f"Update fedora-obsolete-packages for Fedora {version}"
             all_events.add(obsolete_event)
         event.name = f"F{version}: {event.name}"
+        event.url = URL_HTML.format(version=version)
         all_events.add(event)
 
 final_cal = Calendar()

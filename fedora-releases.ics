@@ -9,6 +9,7 @@ DTSTAMP:20250305T073646Z
 SUMMARY:F43: Retire FTI packages in NEW state
 TRANSP:TRANSPARENT
 UID:217-fedora_linux_43_release.releng.retire_fti_packages_in_new_state_2
+URL:https://fedorapeople.org/groups/schedule/f-43/f-43-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250325
@@ -16,6 +17,7 @@ DTSTAMP:20250410T160613Z
 SUMMARY:F42: Retire FTI packages in NEW state
 TRANSP:TRANSPARENT
 UID:211-fedora_linux_42_release.releng.retire_fti_packages_in_new_state_2
+URL:https://fedorapeople.org/groups/schedule/f-42/f-42-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260414
@@ -24,6 +26,7 @@ DESCRIPTION:Fedora contributors plan on this
 SUMMARY:F44: Early Final Target date
 TRANSP:TRANSPARENT
 UID:51-fedora_linux_44_release.key_tasks_milestones.final_release_public_availability_ga_.early_final_target_date
+URL:https://fedorapeople.org/groups/schedule/f-44/f-44-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250826
@@ -31,6 +34,7 @@ DTSTAMP:20250305T073646Z
 SUMMARY:F43: Bodhi updates-testing activation point
 TRANSP:TRANSPARENT
 UID:38-fedora_linux_43_release.key_tasks_milestones.bodhi_updates_testing_activation_point
+URL:https://fedorapeople.org/groups/schedule/f-43/f-43-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250826
@@ -39,6 +43,7 @@ DTSTAMP:20250305T073646Z
 SUMMARY:F43: Beta Freeze (starts at 1400 UTC)
 TRANSP:TRANSPARENT
 UID:40-fedora_linux_43_release.key_tasks_milestones.beta_freeze_starts_at_1400_utc_
+URL:https://fedorapeople.org/groups/schedule/f-43/f-43-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240813
@@ -46,6 +51,7 @@ DTSTAMP:20250410T160613Z
 SUMMARY:F42: Rawhide starts Fedora Linux 42 development
 TRANSP:TRANSPARENT
 UID:23-fedora_linux_42_release.key_tasks_milestones.rawhide_starts_fedora_linux_42_development
+URL:https://fedorapeople.org/groups/schedule/f-42/f-42-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251111
@@ -53,6 +59,7 @@ DTSTAMP:20250305T073646Z
 SUMMARY:F43: Current Final Target date
 TRANSP:TRANSPARENT
 UID:52-fedora_linux_43_release.key_tasks_milestones.final_release_public_availability_ga_.current_final_target_date
+URL:https://fedorapeople.org/groups/schedule/f-43/f-43-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220208
@@ -60,6 +67,7 @@ DTSTAMP:20250305T073646Z
 SUMMARY:F43: Rawhide starts Fedora Linux 43 development
 TRANSP:TRANSPARENT
 UID:23-fedora_linux_43_release.key_tasks_milestones.rawhide_starts_fedora_linux_43_development
+URL:https://fedorapeople.org/groups/schedule/f-43/f-43-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250701
@@ -67,6 +75,7 @@ DTSTAMP:20250305T073646Z
 SUMMARY:F43: Change Checkpoint: Proposal submission deadline (Changes requiring mass rebuild)
 TRANSP:TRANSPARENT
 UID:24-fedora_linux_43_release.key_tasks_milestones.change_checkpoint_proposal_submission_deadline_changes_requiring_mass_rebuild_
+URL:https://fedorapeople.org/groups/schedule/f-43/f-43-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250826
@@ -74,6 +83,7 @@ DTSTAMP:20250305T073646Z
 SUMMARY:F43: Change Checkpoint: 100% Code Complete Deadline
 TRANSP:TRANSPARENT
 UID:39-fedora_linux_43_release.key_tasks_milestones.change_checkpoint_100_code_complete_deadline
+URL:https://fedorapeople.org/groups/schedule/f-43/f-43-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260331
@@ -90,6 +100,7 @@ DTSTAMP:20241105T064102Z
 SUMMARY:F44: Final Freeze (starts at 1400 UTC)
 TRANSP:TRANSPARENT
 UID:47-fedora_linux_44_release.key_tasks_milestones.final_freeze_starts_at_1400_utc_
+URL:https://fedorapeople.org/groups/schedule/f-44/f-44-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250422
@@ -98,6 +109,7 @@ DESCRIPTION:Fedora users plan on this
 SUMMARY:F42: Final Target date #1
 TRANSP:TRANSPARENT
 UID:53-fedora_linux_42_release.key_tasks_milestones.final_release_public_availability_ga_.final_target_date_1
+URL:https://fedorapeople.org/groups/schedule/f-42/f-42-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240813
@@ -105,6 +117,7 @@ DTSTAMP:20241105T064102Z
 SUMMARY:F44: Rawhide starts Fedora Linux 44 development
 TRANSP:TRANSPARENT
 UID:23-fedora_linux_44_release.key_tasks_milestones.rawhide_starts_fedora_linux_44_development
+URL:https://fedorapeople.org/groups/schedule/f-44/f-44-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250812
@@ -112,6 +125,7 @@ DTSTAMP:20250305T073646Z
 SUMMARY:F43: Branch Fedora Linux 43 from Rawhide
 TRANSP:TRANSPARENT
 UID:32-fedora_linux_43_release.key_tasks_milestones.branch_fedora_linux_43_from_rawhide
+URL:https://fedorapeople.org/groups/schedule/f-43/f-43-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250128
@@ -119,6 +133,7 @@ DTSTAMP:20250410T160613Z
 SUMMARY:F42: Retire Orphaned and Long-Time FTBFS Rawhide Packages
 TRANSP:TRANSPARENT
 UID:203-fedora_linux_42_release.releng.retire_orphaned_and_long_time_ftbfs_rawhide_packages
+URL:https://fedorapeople.org/groups/schedule/f-42/f-42-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251007
@@ -134,6 +149,7 @@ DTSTAMP:20250410T160613Z
 SUMMARY:F42: Change Checkpoint: Proposal submission deadline (Self Contained Changes)
 TRANSP:TRANSPARENT
 UID:30-fedora_linux_42_release.key_tasks_milestones.change_checkpoint_proposal_submission_deadline_self_contained_changes_
+URL:https://fedorapeople.org/groups/schedule/f-42/f-42-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250513
@@ -141,6 +157,7 @@ DTSTAMP:20250410T160613Z
 SUMMARY:F42: Fedora Linux 40 EOL auto closure
 TRANSP:TRANSPARENT
 UID:55-fedora_linux_42_release.key_tasks_milestones.fedora_linux_40_eol_auto_closure
+URL:https://fedorapeople.org/groups/schedule/f-42/f-42-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251007
@@ -149,6 +166,7 @@ DTSTAMP:20250305T073646Z
 SUMMARY:F43: Final Freeze (starts at 1400 UTC)
 TRANSP:TRANSPARENT
 UID:47-fedora_linux_43_release.key_tasks_milestones.final_freeze_starts_at_1400_utc_
+URL:https://fedorapeople.org/groups/schedule/f-43/f-43-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270519
@@ -157,6 +175,7 @@ DESCRIPTION:This is a changeable date and currently based off the Early Target D
 SUMMARY:F44: Fedora Linux 44 End of Life
 TRANSP:TRANSPARENT
 UID:56-fedora_linux_44_release.key_tasks_milestones.fedora_linux_44_end_of_life
+URL:https://fedorapeople.org/groups/schedule/f-44/f-44-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251104
@@ -164,6 +183,7 @@ DTSTAMP:20250305T073646Z
 SUMMARY:F43: Final Target date #2
 TRANSP:TRANSPARENT
 UID:54-fedora_linux_43_release.key_tasks_milestones.final_release_public_availability_ga_.final_target_date_2
+URL:https://fedorapeople.org/groups/schedule/f-43/f-43-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260114
@@ -172,6 +192,7 @@ DTSTAMP:20241105T064102Z
 SUMMARY:F44: Mass Rebuild: RPMs
 TRANSP:TRANSPARENT
 UID:27-fedora_linux_44_release.key_tasks_milestones.mass_rebuild_rpms
+URL:https://fedorapeople.org/groups/schedule/f-44/f-44-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250401
@@ -188,6 +209,7 @@ DTSTAMP:20250410T160613Z
 SUMMARY:F42: Final Freeze (starts at 1400 UTC)
 TRANSP:TRANSPARENT
 UID:47-fedora_linux_42_release.key_tasks_milestones.final_freeze_starts_at_1400_utc_
+URL:https://fedorapeople.org/groups/schedule/f-42/f-42-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260210
@@ -195,6 +217,7 @@ DTSTAMP:20241105T064102Z
 SUMMARY:F44: Retire FTI packages in NEW state
 TRANSP:TRANSPARENT
 UID:205-fedora_linux_44_release.releng.retire_fti_packages_in_new_state
+URL:https://fedorapeople.org/groups/schedule/f-44/f-44-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261202
@@ -203,6 +226,7 @@ DESCRIPTION:This is a changeable date and currently based off the Early Target D
 SUMMARY:F43: Fedora Linux 43 End of Life
 TRANSP:TRANSPARENT
 UID:58-fedora_linux_43_release.key_tasks_milestones.fedora_linux_43_end_of_life
+URL:https://fedorapeople.org/groups/schedule/f-43/f-43-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250218
@@ -211,6 +235,7 @@ DTSTAMP:20250410T160613Z
 SUMMARY:F42: Beta Freeze (starts at 1400 UTC)
 TRANSP:TRANSPARENT
 UID:40-fedora_linux_42_release.key_tasks_milestones.beta_freeze_starts_at_1400_utc_
+URL:https://fedorapeople.org/groups/schedule/f-42/f-42-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250211
@@ -218,6 +243,7 @@ DTSTAMP:20250410T160613Z
 SUMMARY:F42: Retire FTI packages in NEW state
 TRANSP:TRANSPARENT
 UID:205-fedora_linux_42_release.releng.retire_fti_packages_in_new_state
+URL:https://fedorapeople.org/groups/schedule/f-42/f-42-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251021
@@ -226,6 +252,7 @@ DESCRIPTION:Fedora contributors plan on this
 SUMMARY:F43: Early Final Target date
 TRANSP:TRANSPARENT
 UID:51-fedora_linux_43_release.key_tasks_milestones.final_release_public_availability_ga_.early_final_target_date
+URL:https://fedorapeople.org/groups/schedule/f-43/f-43-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260217
@@ -233,6 +260,7 @@ DTSTAMP:20241105T064102Z
 SUMMARY:F44: Bodhi updates-testing activation point
 TRANSP:TRANSPARENT
 UID:38-fedora_linux_44_release.key_tasks_milestones.bodhi_updates_testing_activation_point
+URL:https://fedorapeople.org/groups/schedule/f-44/f-44-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260324
@@ -240,6 +268,7 @@ DTSTAMP:20241105T064102Z
 SUMMARY:F44: Retire FTI packages in NEW state
 TRANSP:TRANSPARENT
 UID:211-fedora_linux_44_release.releng.retire_fti_packages_in_new_state_2
+URL:https://fedorapeople.org/groups/schedule/f-44/f-44-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251223
@@ -247,6 +276,7 @@ DTSTAMP:20241105T064102Z
 SUMMARY:F44: Change Checkpoint: Proposal submission deadline (Changes requiring mass rebuild)
 TRANSP:TRANSPARENT
 UID:24-fedora_linux_44_release.key_tasks_milestones.change_checkpoint_proposal_submission_deadline_changes_requiring_mass_rebuild_
+URL:https://fedorapeople.org/groups/schedule/f-44/f-44-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260203
@@ -254,6 +284,7 @@ DTSTAMP:20241105T064102Z
 SUMMARY:F44: Change Checkpoint: Completion deadline (testable)
 TRANSP:TRANSPARENT
 UID:31-fedora_linux_44_release.key_tasks_milestones.change_checkpoint_completion_deadline_testable_
+URL:https://fedorapeople.org/groups/schedule/f-44/f-44-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250318
@@ -261,6 +292,7 @@ DTSTAMP:20250410T160613Z
 SUMMARY:F42: Current Beta Target date
 TRANSP:TRANSPARENT
 UID:45-fedora_linux_42_release.key_tasks_milestones.beta_release_public_availability.current_beta_target_date
+URL:https://fedorapeople.org/groups/schedule/f-42/f-42-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260317
@@ -269,6 +301,7 @@ DESCRIPTION:Fedora users plan on this
 SUMMARY:F44: Beta Target date #1
 TRANSP:TRANSPARENT
 UID:46-fedora_linux_44_release.key_tasks_milestones.beta_release_public_availability.beta_target_date_1
+URL:https://fedorapeople.org/groups/schedule/f-44/f-44-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260217
@@ -276,6 +309,7 @@ DTSTAMP:20241105T064102Z
 SUMMARY:F44: Change Checkpoint: 100% Code Complete Deadline
 TRANSP:TRANSPARENT
 UID:39-fedora_linux_44_release.key_tasks_milestones.change_checkpoint_100_code_complete_deadline
+URL:https://fedorapeople.org/groups/schedule/f-44/f-44-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241224
@@ -283,6 +317,7 @@ DTSTAMP:20250410T160613Z
 SUMMARY:F42: Change Checkpoint: Proposal submission deadline (System Wide Changes)
 TRANSP:TRANSPARENT
 UID:26-fedora_linux_42_release.key_tasks_milestones.change_checkpoint_proposal_submission_deadline_system_wide_changes_
+URL:https://fedorapeople.org/groups/schedule/f-42/f-42-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250723
@@ -291,6 +326,7 @@ DTSTAMP:20250305T073646Z
 SUMMARY:F43: Mass Rebuild: RPMs
 TRANSP:TRANSPARENT
 UID:27-fedora_linux_43_release.key_tasks_milestones.mass_rebuild_rpms
+URL:https://fedorapeople.org/groups/schedule/f-43/f-43-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251119
@@ -298,6 +334,7 @@ DTSTAMP:20250305T073646Z
 SUMMARY:F43: Fedora Linux 41 EOL auto closure
 TRANSP:TRANSPARENT
 UID:57-fedora_linux_43_release.key_tasks_milestones.fedora_linux_41_eol_auto_closure
+URL:https://fedorapeople.org/groups/schedule/f-43/f-43-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250415
@@ -305,6 +342,7 @@ DTSTAMP:20250410T160613Z
 SUMMARY:F42: Current Final Target date
 TRANSP:TRANSPARENT
 UID:52-fedora_linux_42_release.key_tasks_milestones.final_release_public_availability_ga_.current_final_target_date
+URL:https://fedorapeople.org/groups/schedule/f-42/f-42-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260203
@@ -312,6 +350,7 @@ DTSTAMP:20241105T064102Z
 SUMMARY:F44: Branch Fedora Linux 44 from Rawhide
 TRANSP:TRANSPARENT
 UID:32-fedora_linux_44_release.key_tasks_milestones.branch_fedora_linux_44_from_rawhide
+URL:https://fedorapeople.org/groups/schedule/f-44/f-44-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250805
@@ -319,6 +358,7 @@ DTSTAMP:20250305T073646Z
 SUMMARY:F43: Retire Orphaned and Long-Time FTBFS Rawhide Packages
 TRANSP:TRANSPARENT
 UID:210-fedora_linux_43_release.releng.retire_orphaned_and_long_time_ftbfs_rawhide_packages
+URL:https://fedorapeople.org/groups/schedule/f-43/f-43-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260414
@@ -326,6 +366,7 @@ DTSTAMP:20241105T064102Z
 SUMMARY:F44: Current Final Target date
 TRANSP:TRANSPARENT
 UID:52-fedora_linux_44_release.key_tasks_milestones.final_release_public_availability_ga_.current_final_target_date
+URL:https://fedorapeople.org/groups/schedule/f-44/f-44-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251111
@@ -333,6 +374,7 @@ DTSTAMP:20250305T073646Z
 SUMMARY:F43: Final Target date #3
 TRANSP:TRANSPARENT
 UID:55-fedora_linux_43_release.key_tasks_milestones.final_release_public_availability_ga_.final_target_date_3
+URL:https://fedorapeople.org/groups/schedule/f-43/f-43-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250812
@@ -340,6 +382,7 @@ DTSTAMP:20250305T073646Z
 SUMMARY:F43: Change Checkpoint: Completion deadline (testable)
 TRANSP:TRANSPARENT
 UID:31-fedora_linux_43_release.key_tasks_milestones.change_checkpoint_completion_deadline_testable_
+URL:https://fedorapeople.org/groups/schedule/f-43/f-43-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260421
@@ -348,6 +391,7 @@ DESCRIPTION:Fedora users plan on this
 SUMMARY:F44: Final Target date #1
 TRANSP:TRANSPARENT
 UID:53-fedora_linux_44_release.key_tasks_milestones.final_release_public_availability_ga_.final_target_date_1
+URL:https://fedorapeople.org/groups/schedule/f-44/f-44-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250701
@@ -355,6 +399,7 @@ DTSTAMP:20250305T073646Z
 SUMMARY:F43: Change Checkpoint: Proposal submission deadline (System Wide Changes)
 TRANSP:TRANSPARENT
 UID:26-fedora_linux_43_release.key_tasks_milestones.change_checkpoint_proposal_submission_deadline_system_wide_changes_
+URL:https://fedorapeople.org/groups/schedule/f-43/f-43-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250218
@@ -362,6 +407,7 @@ DTSTAMP:20250410T160613Z
 SUMMARY:F42: Bodhi updates-testing activation point
 TRANSP:TRANSPARENT
 UID:38-fedora_linux_42_release.key_tasks_milestones.bodhi_updates_testing_activation_point
+URL:https://fedorapeople.org/groups/schedule/f-42/f-42-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250204
@@ -370,6 +416,7 @@ DTSTAMP:20250410T160613Z
 SUMMARY:F42: Post-branch Freeze (end date approximate)
 TRANSP:TRANSPARENT
 UID:35-fedora_linux_42_release.key_tasks_milestones.post_branch_freeze_end_date_approximate_
+URL:https://fedorapeople.org/groups/schedule/f-42/f-42-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260113
@@ -377,6 +424,7 @@ DTSTAMP:20241105T064102Z
 SUMMARY:F44: Change Checkpoint: Proposal submission deadline (Self Contained Changes)
 TRANSP:TRANSPARENT
 UID:30-fedora_linux_44_release.key_tasks_milestones.change_checkpoint_proposal_submission_deadline_self_contained_changes_
+URL:https://fedorapeople.org/groups/schedule/f-44/f-44-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250218
@@ -384,6 +432,7 @@ DTSTAMP:20250410T160613Z
 SUMMARY:F42: Change Checkpoint: 100% Code Complete Deadline
 TRANSP:TRANSPARENT
 UID:39-fedora_linux_42_release.key_tasks_milestones.change_checkpoint_100_code_complete_deadline
+URL:https://fedorapeople.org/groups/schedule/f-42/f-42-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250415
@@ -392,6 +441,7 @@ DESCRIPTION:Fedora contributors plan on this
 SUMMARY:F42: Early Final Target date
 TRANSP:TRANSPARENT
 UID:51-fedora_linux_42_release.key_tasks_milestones.final_release_public_availability_ga_.early_final_target_date
+URL:https://fedorapeople.org/groups/schedule/f-42/f-42-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250204
@@ -399,6 +449,7 @@ DTSTAMP:20250410T160613Z
 SUMMARY:F42: Branch Fedora Linux 42 from Rawhide
 TRANSP:TRANSPARENT
 UID:32-fedora_linux_42_release.key_tasks_milestones.branch_fedora_linux_42_from_rawhide
+URL:https://fedorapeople.org/groups/schedule/f-42/f-42-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250812
@@ -407,6 +458,7 @@ DTSTAMP:20250305T073646Z
 SUMMARY:F43: Post-branch Freeze (end date approximate)
 TRANSP:TRANSPARENT
 UID:35-fedora_linux_43_release.key_tasks_milestones.post_branch_freeze_end_date_approximate_
+URL:https://fedorapeople.org/groups/schedule/f-43/f-43-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241224
@@ -414,6 +466,7 @@ DTSTAMP:20250410T160613Z
 SUMMARY:F42: Change Checkpoint: Proposal submission deadline (Changes requiring mass rebuild)
 TRANSP:TRANSPARENT
 UID:24-fedora_linux_42_release.key_tasks_milestones.change_checkpoint_proposal_submission_deadline_changes_requiring_mass_rebuild_
+URL:https://fedorapeople.org/groups/schedule/f-42/f-42-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250916
@@ -421,6 +474,7 @@ DTSTAMP:20250305T073646Z
 SUMMARY:F43: Beta Release
 TRANSP:TRANSPARENT
 UID:45-fedora_linux_43_release.key_tasks_milestones.beta_release_public_availability.beta_release
+URL:https://fedorapeople.org/groups/schedule/f-43/f-43-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250115
@@ -429,6 +483,7 @@ DTSTAMP:20250410T160613Z
 SUMMARY:F42: Mass Rebuild: RPMs
 TRANSP:TRANSPARENT
 UID:27-fedora_linux_42_release.key_tasks_milestones.mass_rebuild_rpms
+URL:https://fedorapeople.org/groups/schedule/f-42/f-42-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250318
@@ -437,6 +492,7 @@ DESCRIPTION:Fedora users plan on this
 SUMMARY:F42: Beta Target date #1
 TRANSP:TRANSPARENT
 UID:46-fedora_linux_42_release.key_tasks_milestones.beta_release_public_availability.beta_target_date_1
+URL:https://fedorapeople.org/groups/schedule/f-42/f-42-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241218
@@ -444,6 +500,7 @@ DTSTAMP:20250410T160613Z
 SUMMARY:F42: Change Checkpoint: Proposal submission deadline (Changes requiring infrastructure changes)
 TRANSP:TRANSPARENT
 UID:25-fedora_linux_42_release.key_tasks_milestones.change_checkpoint_proposal_submission_deadline_changes_requiring_infrastructure_changes_
+URL:https://fedorapeople.org/groups/schedule/f-42/f-42-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251223
@@ -451,6 +508,7 @@ DTSTAMP:20241105T064102Z
 SUMMARY:F44: Change Checkpoint: Proposal submission deadline (System Wide Changes)
 TRANSP:TRANSPARENT
 UID:26-fedora_linux_44_release.key_tasks_milestones.change_checkpoint_proposal_submission_deadline_system_wide_changes_
+URL:https://fedorapeople.org/groups/schedule/f-44/f-44-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260217
@@ -459,6 +517,7 @@ DTSTAMP:20241105T064102Z
 SUMMARY:F44: Beta Freeze (starts at 1400 UTC)
 TRANSP:TRANSPARENT
 UID:40-fedora_linux_44_release.key_tasks_milestones.beta_freeze_starts_at_1400_utc_
+URL:https://fedorapeople.org/groups/schedule/f-44/f-44-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250204
@@ -466,6 +525,7 @@ DTSTAMP:20250410T160613Z
 SUMMARY:F42: Change Checkpoint: Completion deadline (testable)
 TRANSP:TRANSPARENT
 UID:31-fedora_linux_42_release.key_tasks_milestones.change_checkpoint_completion_deadline_testable_
+URL:https://fedorapeople.org/groups/schedule/f-42/f-42-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260203
@@ -474,6 +534,7 @@ DTSTAMP:20241105T064102Z
 SUMMARY:F44: Post-branch Freeze (end date approximate)
 TRANSP:TRANSPARENT
 UID:35-fedora_linux_44_release.key_tasks_milestones.post_branch_freeze_end_date_approximate_
+URL:https://fedorapeople.org/groups/schedule/f-44/f-44-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260513
@@ -481,6 +542,7 @@ DTSTAMP:20241105T064102Z
 SUMMARY:F44: Fedora Linux 42 EOL auto closure
 TRANSP:TRANSPARENT
 UID:55-fedora_linux_44_release.key_tasks_milestones.fedora_linux_42_eol_auto_closure
+URL:https://fedorapeople.org/groups/schedule/f-44/f-44-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250625
@@ -488,6 +550,7 @@ DTSTAMP:20250305T073646Z
 SUMMARY:F43: Change Checkpoint: Proposal submission deadline (Changes requiring infrastructure changes)
 TRANSP:TRANSPARENT
 UID:25-fedora_linux_43_release.key_tasks_milestones.change_checkpoint_proposal_submission_deadline_changes_requiring_infrastructure_changes_
+URL:https://fedorapeople.org/groups/schedule/f-43/f-43-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250311
@@ -496,6 +559,7 @@ DESCRIPTION:Fedora contributors plan on this
 SUMMARY:F42: Beta Release (Early Target)
 TRANSP:TRANSPARENT
 UID:44-fedora_linux_42_release.key_tasks_milestones.beta_release_public_availability.beta_release_early_target_
+URL:https://fedorapeople.org/groups/schedule/f-42/f-42-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250819
@@ -503,6 +567,7 @@ DTSTAMP:20250305T073646Z
 SUMMARY:F43: Retire FTI packages in NEW state
 TRANSP:TRANSPARENT
 UID:211-fedora_linux_43_release.releng.retire_fti_packages_in_new_state
+URL:https://fedorapeople.org/groups/schedule/f-43/f-43-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251028
@@ -511,6 +576,7 @@ DESCRIPTION:Fedora users plan on this
 SUMMARY:F43: Final Target date #1
 TRANSP:TRANSPARENT
 UID:53-fedora_linux_43_release.key_tasks_milestones.final_release_public_availability_ga_.final_target_date_1
+URL:https://fedorapeople.org/groups/schedule/f-43/f-43-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260127
@@ -518,6 +584,7 @@ DTSTAMP:20241105T064102Z
 SUMMARY:F44: Retire Orphaned and Long-Time FTBFS Rawhide Packages
 TRANSP:TRANSPARENT
 UID:203-fedora_linux_44_release.releng.retire_orphaned_and_long_time_ftbfs_rawhide_packages
+URL:https://fedorapeople.org/groups/schedule/f-44/f-44-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260310
@@ -526,6 +593,7 @@ DESCRIPTION:Fedora contributors plan on this
 SUMMARY:F44: Beta Release (Early Target)
 TRANSP:TRANSPARENT
 UID:44-fedora_linux_44_release.key_tasks_milestones.beta_release_public_availability.beta_release_early_target_
+URL:https://fedorapeople.org/groups/schedule/f-44/f-44-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251217
@@ -533,6 +601,7 @@ DTSTAMP:20241105T064102Z
 SUMMARY:F44: Change Checkpoint: Proposal submission deadline (Changes requiring infrastructure changes)
 TRANSP:TRANSPARENT
 UID:25-fedora_linux_44_release.key_tasks_milestones.change_checkpoint_proposal_submission_deadline_changes_requiring_infrastructure_changes_
+URL:https://fedorapeople.org/groups/schedule/f-44/f-44-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250722
@@ -540,6 +609,7 @@ DTSTAMP:20250305T073646Z
 SUMMARY:F43: Change Checkpoint: Proposal submission deadline (Self Contained Changes)
 TRANSP:TRANSPARENT
 UID:30-fedora_linux_43_release.key_tasks_milestones.change_checkpoint_proposal_submission_deadline_self_contained_changes_
+URL:https://fedorapeople.org/groups/schedule/f-43/f-43-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260513
@@ -548,6 +618,7 @@ DESCRIPTION:This is a changeable date and currently based off the Early Target D
 SUMMARY:F42: Fedora Linux 42 End of Life
 TRANSP:TRANSPARENT
 UID:56-fedora_linux_42_release.key_tasks_milestones.fedora_linux_42_end_of_life
+URL:https://fedorapeople.org/groups/schedule/f-42/f-42-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260310
@@ -555,5 +626,6 @@ DTSTAMP:20241105T064102Z
 SUMMARY:F44: Current Beta Target date
 TRANSP:TRANSPARENT
 UID:45-fedora_linux_44_release.key_tasks_milestones.beta_release_public_availability.current_beta_target_date
+URL:https://fedorapeople.org/groups/schedule/f-44/f-44-key-tasks.html
 END:VEVENT
 END:VCALENDAR
