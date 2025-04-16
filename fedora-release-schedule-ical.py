@@ -55,6 +55,8 @@ for version in FEDORA_VERSIONS:
             # add custom event to remind about obsoleting packages requiring the old Pythons
             obsolete_event = event.clone()
             obsolete_event.name = f"Update fedora-obsolete-packages for Fedora {version}"
+            obsolete_event.end = None
+            obsolete_event.uid = f"custom-update-fedora-obsolete-packages-for-fedora-{version}"
             all_events.add(obsolete_event)
         if event.name != omit_pattern:
             event.name = f"F{version}: {event.name}"

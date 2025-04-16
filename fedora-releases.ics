@@ -89,17 +89,17 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260331
 DTEND;VALUE=DATE:20260415
 DTSTAMP:20241105T064102Z
-SUMMARY:Update fedora-obsolete-packages for Fedora 44
-TRANSP:TRANSPARENT
-UID:47-fedora_linux_44_release.key_tasks_milestones.final_freeze_starts_at_1400_utc_
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260331
-DTEND;VALUE=DATE:20260415
-DTSTAMP:20241105T064102Z
 SUMMARY:F44: Final Freeze (starts at 1400 UTC)
 TRANSP:TRANSPARENT
 UID:47-fedora_linux_44_release.key_tasks_milestones.final_freeze_starts_at_1400_utc_
+URL:https://fedorapeople.org/groups/schedule/f-44/f-44-key-tasks.html
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240813
+DTSTAMP:20241105T064102Z
+SUMMARY:F44: Rawhide starts Fedora Linux 44 development
+TRANSP:TRANSPARENT
+UID:23-fedora_linux_44_release.key_tasks_milestones.rawhide_starts_fedora_linux_44_development
 URL:https://fedorapeople.org/groups/schedule/f-44/f-44-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
@@ -110,14 +110,6 @@ SUMMARY:F42: Final Target date #1
 TRANSP:TRANSPARENT
 UID:53-fedora_linux_42_release.key_tasks_milestones.final_release_public_availability_ga_.final_target_date_1
 URL:https://fedorapeople.org/groups/schedule/f-42/f-42-key-tasks.html
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240813
-DTSTAMP:20241105T064102Z
-SUMMARY:F44: Rawhide starts Fedora Linux 44 development
-TRANSP:TRANSPARENT
-UID:23-fedora_linux_44_release.key_tasks_milestones.rawhide_starts_fedora_linux_44_development
-URL:https://fedorapeople.org/groups/schedule/f-44/f-44-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250812
@@ -139,9 +131,10 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251007
 DTEND;VALUE=DATE:20251112
 DTSTAMP:20250305T073646Z
-SUMMARY:Update fedora-obsolete-packages for Fedora 43
+SUMMARY:F43: Final Freeze (starts at 1400 UTC)
 TRANSP:TRANSPARENT
 UID:47-fedora_linux_43_release.key_tasks_milestones.final_freeze_starts_at_1400_utc_
+URL:https://fedorapeople.org/groups/schedule/f-43/f-43-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250114
@@ -158,15 +151,6 @@ SUMMARY:Fedora Linux 40 EOL auto closure
 TRANSP:TRANSPARENT
 UID:55-fedora_linux_42_release.key_tasks_milestones.fedora_linux_40_eol_auto_closure
 URL:https://fedorapeople.org/groups/schedule/f-42/f-42-key-tasks.html
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251007
-DTEND;VALUE=DATE:20251112
-DTSTAMP:20250305T073646Z
-SUMMARY:F43: Final Freeze (starts at 1400 UTC)
-TRANSP:TRANSPARENT
-UID:47-fedora_linux_43_release.key_tasks_milestones.final_freeze_starts_at_1400_utc_
-URL:https://fedorapeople.org/groups/schedule/f-43/f-43-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270519
@@ -193,14 +177,6 @@ SUMMARY:F44: Mass Rebuild: RPMs
 TRANSP:TRANSPARENT
 UID:27-fedora_linux_44_release.key_tasks_milestones.mass_rebuild_rpms
 URL:https://fedorapeople.org/groups/schedule/f-44/f-44-key-tasks.html
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250401
-DTEND;VALUE=DATE:20250416
-DTSTAMP:20250410T160613Z
-SUMMARY:Update fedora-obsolete-packages for Fedora 42
-TRANSP:TRANSPARENT
-UID:47-fedora_linux_42_release.key_tasks_milestones.final_freeze_starts_at_1400_utc_
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250401
@@ -367,6 +343,27 @@ SUMMARY:F44: Current Final Target date
 TRANSP:TRANSPARENT
 UID:52-fedora_linux_44_release.key_tasks_milestones.final_release_public_availability_ga_.current_final_target_date
 URL:https://fedorapeople.org/groups/schedule/f-44/f-44-key-tasks.html
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250401
+DTSTAMP:20250410T160613Z
+SUMMARY:Update fedora-obsolete-packages for Fedora 42
+TRANSP:TRANSPARENT
+UID:custom-update-fedora-obsolete-packages-for-fedora-42
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251007
+DTSTAMP:20250305T073646Z
+SUMMARY:Update fedora-obsolete-packages for Fedora 43
+TRANSP:TRANSPARENT
+UID:custom-update-fedora-obsolete-packages-for-fedora-43
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260331
+DTSTAMP:20241105T064102Z
+SUMMARY:Update fedora-obsolete-packages for Fedora 44
+TRANSP:TRANSPARENT
+UID:custom-update-fedora-obsolete-packages-for-fedora-44
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251111
