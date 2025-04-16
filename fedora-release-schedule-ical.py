@@ -44,6 +44,9 @@ for version in FEDORA_VERSIONS:
     cal = Calendar(cal_file.text)
     remove_summaries = build_remove_set(version)
 
+    # the auto closure happens for a version two numbers earlier
+    omit_pattern = f"Fedora Linux {version - 2} EOL auto closure"
+
     for event in cal.events:
         event.make_all_day()
         if event.name in remove_summaries:
@@ -53,7 +56,8 @@ for version in FEDORA_VERSIONS:
             obsolete_event = event.clone()
             obsolete_event.name = f"Update fedora-obsolete-packages for Fedora {version}"
             all_events.add(obsolete_event)
-        event.name = f"F{version}: {event.name}"
+        if event.name != omit_pattern:
+            event.name = f"F{version}: {event.name}"
         event.url = URL_HTML.format(version=version)
         all_events.add(event)
 

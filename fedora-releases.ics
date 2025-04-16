@@ -154,7 +154,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250513
 DTSTAMP:20250410T160613Z
-SUMMARY:F42: Fedora Linux 40 EOL auto closure
+SUMMARY:Fedora Linux 40 EOL auto closure
 TRANSP:TRANSPARENT
 UID:55-fedora_linux_42_release.key_tasks_milestones.fedora_linux_40_eol_auto_closure
 URL:https://fedorapeople.org/groups/schedule/f-42/f-42-key-tasks.html
@@ -331,7 +331,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251119
 DTSTAMP:20250305T073646Z
-SUMMARY:F43: Fedora Linux 41 EOL auto closure
+SUMMARY:Fedora Linux 41 EOL auto closure
 TRANSP:TRANSPARENT
 UID:57-fedora_linux_43_release.key_tasks_milestones.fedora_linux_41_eol_auto_closure
 URL:https://fedorapeople.org/groups/schedule/f-43/f-43-key-tasks.html
@@ -539,7 +539,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260513
 DTSTAMP:20241105T064102Z
-SUMMARY:F44: Fedora Linux 42 EOL auto closure
+SUMMARY:Fedora Linux 42 EOL auto closure
 TRANSP:TRANSPARENT
 UID:55-fedora_linux_44_release.key_tasks_milestones.fedora_linux_42_eol_auto_closure
 URL:https://fedorapeople.org/groups/schedule/f-44/f-44-key-tasks.html
