@@ -29,6 +29,7 @@ SUMMARY_PATTERNS = {
     "Post Release Cleanup [rel-eng]",
     "Beta Release Public Availability",
     "Final Release Public Availability (GA)",
+    "#UNPARSEABLE",  # https://pagure.io/fedora-pgm/schedule/issue/212
 }
 
 

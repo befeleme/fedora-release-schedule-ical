@@ -337,15 +337,6 @@ UID:51-fedora_linux_42_release.key_tasks_milestones.final_release_public_availab
 URL:https://fedorapeople.org/groups/schedule/f-42/f-42-key-tasks.html
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250213
-DTEND;VALUE=DATE:20271202
-DTSTAMP:20250730T093721Z
-SUMMARY:F45: #UNPARSEABLE
-TRANSP:TRANSPARENT
-UID:1-_unparseable
-URL:https://fedorapeople.org/groups/schedule/f-45/f-45-key-tasks.html
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241224
 DTSTAMP:20250513T075901Z
 SUMMARY:F42: Change Checkpoint: Proposal submission deadline (Changes requiring mass rebuild)
